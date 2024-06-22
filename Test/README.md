@@ -20,8 +20,8 @@
 ### Шаг 1: Клонируйте репозиторий
 
 ```bash
-git clone https://github.com/yourusername/currency-api.git
-cd currency-api
+git clone https://github.com/yerkennz/Halyk_cs.git
+cd Test
 ```
 
 ### Шаг 2: Установите .NET Core SDK
